@@ -51,7 +51,7 @@
     {
       "name": "cj custom",
       "address": "https://anisette-v3-server-ifu2.onrender.com"
-    },
+    }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
